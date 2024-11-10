@@ -70,7 +70,6 @@ fun main(){
             }
             3 -> {
                 println("${BOLD}Gracias por jugar")
-                break
             }
         }
     }

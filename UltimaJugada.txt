@@ -1,0 +1,6 @@
+[47m[30mNúmero aleatorio :5632[0m
+[47m[30mIntento 1: Número: 1234,[0m[42m[30mAciertos: 1,[0m[43m[30m Coincidencias: 1[0m
+[47m[30mIntento 2: Número: 1356,[0m[42m[30mAciertos: 0,[0m[43m[30m Coincidencias: 3[0m
+[47m[30mIntento 3: Número: 2356,[0m[42m[30mAciertos: 0,[0m[43m[30m Coincidencias: 4[0m
+[47m[30mIntento 4: Número: 5623,[0m[42m[30mAciertos: 2,[0m[43m[30m Coincidencias: 2[0m
+[47m[30mIntento 5: Número: 5632,[0m[42m[30mAciertos: 4,[0m[43m[30m Coincidencias: 0[0m
